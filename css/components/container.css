@@ -1,0 +1,14 @@
+.container h1 {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  display: flex;
+  justify-content: safe center;
+  color: white;
+}
+
+#container2 h2 {
+  font-size: 35px;
+  color: white;
+  display: flex;
+  align-items: center;
+}

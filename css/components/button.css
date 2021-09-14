@@ -1,0 +1,7 @@
+@import url("components/banner.css");
+
+.button.css	{
+	background-size: cover;
+	justify-content: center;
+	background-color: white;
+}
